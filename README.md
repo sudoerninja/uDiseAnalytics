@@ -1,2 +1,2 @@
-# KarMDM
-Data Analytics on Karnataka Mid day meal datasets.
+# uDiseAnalytics
+Data Analytics on Karnataka UDise datasets.
